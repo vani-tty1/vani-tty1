@@ -1,8 +1,6 @@
 <div align="center">
-
-# Vani1-2
-
-**CompSci Student** | I like Coffee and Coca-Cola
+  
+**Computer Science Student** | I like Coca-Cola
 <br>
 *"I build things, break things, and Sleep."*
 
@@ -46,5 +44,5 @@
 
 <div align="center">
 
-**Learning CompSci • Building Side Projects • ☕ Drinking Coffee**
+**Learning CompSci • Building Side Projects • Drinking Coffee**
 
