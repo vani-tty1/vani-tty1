@@ -44,5 +44,5 @@
 
 <div align="center">
 
-**Learning CompSci • Building Side Projects • Drinking Coffee**
+**Building Side Projects • Drinking Coffee**
 
