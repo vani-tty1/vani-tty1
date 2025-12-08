@@ -5,6 +5,9 @@
 *"I build things, break things, and Sleep."*
 
 <p>
+  <a href="https://vani1-2.ct.ws/">
+    <img src="https://img.shields.io/badge/🌐_Website-9c27b0?style=for-the-badge" alt="Website">
+  </a>
   <a href="https://copr.fedorainfracloud.org/coprs/vaniiiiii/">
     <img src="https://img.shields.io/badge/📦_Copr-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Copr">
   </a>
@@ -21,4 +24,3 @@
 <div align="center">
 
 **Building Side Projects • Drinking Coffee**
-
