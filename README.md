@@ -1,6 +1,6 @@
 <div align="center">
   
-**Computer Science Student** | I like Coca-Cola
+**Computer Science Student** | I like Coffee
 <br>
 *"I build things, break things, and Sleep."*
 
