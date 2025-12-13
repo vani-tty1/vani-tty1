@@ -2,7 +2,7 @@
   
 **Computer Science Student** | I like Coffee
 <br>
-*"I build things, break things, and Sleep."*
+*"I also like to sleep."*
 
 <p>
   <a href="https://vani1-2.ct.ws/">
@@ -23,4 +23,4 @@
 
 <div align="center">
 
-**Building Side Projects • Drinking Coffee**
+**Building whatever comes to my mind**
