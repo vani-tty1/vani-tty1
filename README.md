@@ -1,8 +1,6 @@
 <div align="center">
   
-**Computer Science Student** | I like Coffee
-<br>
-*"I also like to sleep."*
+*"Hesitation is defeat"*
 
 <p>
   <a href="https://vani1-2.github.io">
@@ -17,10 +15,3 @@
 </p>
 
 </div>
-
----
-
-
-<div align="center">
-
-**Building whatever comes to my mind**
