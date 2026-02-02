@@ -3,7 +3,7 @@
 *"Hesitation is defeat"*
 
 <p>
-  <a href="https://vani1-2.github.io">
+  <a href="https://vani-tty1.github.io">
     <img src="https://img.shields.io/badge/🌐_Website-9c27b0?style=for-the-badge" alt="Website">
   </a>
   <a href="https://copr.fedorainfracloud.org/coprs/vaniiiiii/">
