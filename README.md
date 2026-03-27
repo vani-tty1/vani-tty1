@@ -4,7 +4,7 @@
 
 <p align="start">
   <a href="https://skill-icons-builder.vercel.app/">
-    <img src="https://skillicons.dev/icons?i=c,rust,java,py,gtk,arch,debian,arduino,linux,spotify,git,github,gitlab,neovim,vim,nginx,html,javascript,css&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,rust,java,py,gtk,arduino,linux,spotify,git,github,gitlab,neovim,vim,nginx,html,javascript,css&perline=11" />
   </a>
 </p>
 
